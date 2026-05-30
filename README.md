@@ -1,9 +1,7 @@
 # Motion Active
 
 A fitness rewards platform built for **Motion Sportswear**. Users track steps, earn Motion Points, and redeem them for real sportswear rewards. Compete on the global leaderboard to climb the ranks.
-
-Built as both a real product and a portfolio project demonstrating full-stack engineering across a polyglot architecture.
-
+Made for Motion Sportswear Limited
 ---
 
 ## Tech Stack
